@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/sabattle/WonderlnadColorBot"><img src="./data/images/Calypso_Title.png"></a>
   <br>
-  Calypso Discord Bot
+ Wonderland Colors Discord Bot
   <br>
 </h1>
 
