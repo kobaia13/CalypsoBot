@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/sabattle/CalypsoBot"><img src="./data/images/Calypso_Title.png"></a>
+  <a href="https://github.com/sabattle/WonderlnadColorBot"><img src="./data/images/Calypso_Title.png"></a>
   <br>
   Calypso Discord Bot
   <br>
